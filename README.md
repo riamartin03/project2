@@ -1,3 +1,3 @@
 # NEW PROJECT
-This repository was crated in a local system
+This repository was created in a local system.
 My name is Ria.
